@@ -1,2 +1,2 @@
 Hello, this is chapter 2.
-I have made sum changes here.
+I have made some changes here.
